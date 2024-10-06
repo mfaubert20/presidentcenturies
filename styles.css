@@ -1,0 +1,107 @@
+html{
+  height: 100%;
+  background-color: white;
+}
+body{
+  margin: 0;
+  padding: 0;
+}
+.wrapper{
+  width: 600px;
+  height: 600px;
+  background-color:#33AAFF;
+  border: 1px solid black;
+  position: absolute;
+  left: 200px;
+  top: 30px;
+}
+.container{
+  width: 600px;
+  height: 60px;
+  background-color: #C4C4C4;
+  top: 0px;
+  position:absolute;
+}
+h1{
+  position: absolute;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  left: 150px;
+}
+.usaflag{
+  position: absolute;
+  top: 10px;
+  left: 470px;
+}
+.nav{
+  width: 600px;
+  height: 40px;
+  background-color: gainsboro;
+  top: 80px;
+  position:absolute;
+  display: inline-block;
+  align-items: center;
+  justify-content: space-around;
+}
+nav a{
+  position: relative;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  text-decoration: none;
+  color: blue;
+}
+.container2{
+  width:300px;
+  height: 350px;
+  background-color: #CCCCCC;
+  border: 1px solid black;
+  top: 100px;
+  left: 25px;
+  position:absolute;
+}
+article{
+  position: absolute;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-variant-position:center;
+  margin-top: 10px;
+  margin-right: 10px;
+  top:90;
+  left: 20px;
+}
+.container3{
+  width:220px;
+  height: 350px;
+  background-color:red;
+  border: 0px solid black;
+  top: 100px;
+  left: 350px;
+  position:absolute;
+}
+.georges{
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+.container4{
+  width:550px;
+  height: 40px;
+  background-color: #FFFFFF;
+  border: 1px solid black;
+  top: 540px;
+  left: 20px;
+  position:absolute;
+}
+footer{
+  font-variant-position:sub;
+  font-size: medium;
+  font-display:unset;
+  left: 0px;
+}
+.pin{
+  width:600px;
+  height: 600px;
+  top: 50px;
+  left: 10px;
+  position:absolute;
+}
